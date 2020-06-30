@@ -1,0 +1,293 @@
+2020-06--23 23:16:17.341 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Running scraper.py
+    Started on 2020-06-23T23:16:17.341395
+---------------------------------------------------------------
+
+2020-06--23 23:16:49.150 scraper.py   INFO     [MainThread  ] Signal Received By Program: SIGINT
+2020-06--23 23:16:49.151 scraper.py   INFO     [MainThread  ] Shutting Down Craigslist Program...
+2020-06--23 23:16:57.424 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Stopped scraper.py
+    Uptime on 0:00:40.082996
+---------------------------------------------------------------
+
+2020-06--23 23:18:14.813 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Running scraper.py
+    Started on 2020-06-23T23:18:14.813261
+---------------------------------------------------------------
+
+2020-06--23 23:18:14.836 scraper.py   INFO     [MainThread  ] No New Jobs Found! Sorry, Better Luck Next Time! 
+2020-06--23 23:18:14.836 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:18:24.856 scraper.py   INFO     [MainThread  ] No New Jobs Found! Sorry, Better Luck Next Time! 
+2020-06--23 23:18:24.856 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:18:34.881 scraper.py   INFO     [MainThread  ] No New Jobs Found! Sorry, Better Luck Next Time! 
+2020-06--23 23:18:34.881 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:18:44.905 scraper.py   INFO     [MainThread  ] No New Jobs Found! Sorry, Better Luck Next Time! 
+2020-06--23 23:18:44.905 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:18:54.925 scraper.py   INFO     [MainThread  ] No New Jobs Found! Sorry, Better Luck Next Time! 
+2020-06--23 23:18:54.925 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:18:55.025 scraper.py   INFO     [MainThread  ] Signal Received By Program: SIGINT
+2020-06--23 23:18:55.025 scraper.py   INFO     [MainThread  ] Shutting Down Craigslist Program...
+2020-06--23 23:19:04.932 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Stopped scraper.py
+    Uptime on 0:00:50.117134
+---------------------------------------------------------------
+
+2020-06--23 23:20:50.978 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Running scraper.py
+    Started on 2020-06-23T23:20:50.978136
+---------------------------------------------------------------
+
+2020-06--23 23:20:50.995 scraper.py   INFO     [MainThread  ] No New Jobs Found!
+Current Findings In Queue: {len([i for i in output_file.read().splitlines()])}
+2020-06--23 23:20:50.995 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:21:01.017 scraper.py   INFO     [MainThread  ] No New Jobs Found!
+Current Findings In Queue: {len([i for i in output_file.read().splitlines()])}
+2020-06--23 23:21:01.018 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:21:11.036 scraper.py   INFO     [MainThread  ] No New Jobs Found!
+Current Findings In Queue: {len([i for i in output_file.read().splitlines()])}
+2020-06--23 23:21:11.036 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:21:13.960 scraper.py   INFO     [MainThread  ] Signal Received By Program: SIGINT
+2020-06--23 23:21:13.960 scraper.py   INFO     [MainThread  ] Shutting Down Craigslist Program...
+2020-06--23 23:21:21.039 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Stopped scraper.py
+    Uptime on 0:00:30.061311
+---------------------------------------------------------------
+
+2020-06--23 23:22:13.584 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Running scraper.py
+    Started on 2020-06-23T23:22:13.584713
+---------------------------------------------------------------
+
+2020-06--23 23:22:13.600 scraper.py   INFO     [MainThread  ] No New Jobs Found!
+Current Findings In Queue: 0
+2020-06--23 23:22:13.600 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:22:18.639 scraper.py   INFO     [MainThread  ] Signal Received By Program: SIGINT
+2020-06--23 23:22:18.639 scraper.py   INFO     [MainThread  ] Shutting Down Craigslist Program...
+2020-06--23 23:22:23.603 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Stopped scraper.py
+    Uptime on 0:00:10.018444
+---------------------------------------------------------------
+
+2020-06--23 23:22:28.846 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Running scraper.py
+    Started on 2020-06-23T23:22:28.846041
+---------------------------------------------------------------
+
+2020-06--23 23:22:28.867 scraper.py   INFO     [MainThread  ] No New Jobs Found!
+Current Findings In Queue: 0
+2020-06--23 23:22:28.867 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:22:38.891 scraper.py   INFO     [MainThread  ] No New Jobs Found!
+Current Findings In Queue: 0
+2020-06--23 23:22:38.892 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:22:48.908 scraper.py   INFO     [MainThread  ] No New Jobs Found!
+Current Findings In Queue: 0
+2020-06--23 23:22:48.908 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:22:58.925 scraper.py   INFO     [MainThread  ] No New Jobs Found!
+Current Findings In Queue: 0
+2020-06--23 23:22:58.926 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:23:00.726 scraper.py   INFO     [MainThread  ] Signal Received By Program: SIGINT
+2020-06--23 23:23:00.726 scraper.py   INFO     [MainThread  ] Shutting Down Craigslist Program...
+2020-06--23 23:23:02.313 scraper.py   INFO     [MainThread  ] Signal Received By Program: SIGINT
+2020-06--23 23:23:02.314 scraper.py   INFO     [MainThread  ] Shutting Down Craigslist Program...
+2020-06--23 23:23:04.917 scraper.py   INFO     [MainThread  ] Signal Received By Program: SIGINT
+2020-06--23 23:23:04.918 scraper.py   INFO     [MainThread  ] Shutting Down Craigslist Program...
+2020-06--23 23:23:05.717 scraper.py   INFO     [MainThread  ] Signal Received By Program: SIGINT
+2020-06--23 23:23:05.718 scraper.py   INFO     [MainThread  ] Shutting Down Craigslist Program...
+2020-06--23 23:23:08.930 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Stopped scraper.py
+    Uptime on 0:00:40.084016
+---------------------------------------------------------------
+
+2020-06--23 23:23:45.982 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Running scraper.py
+    Started on 2020-06-23T23:23:45.982777
+---------------------------------------------------------------
+
+2020-06--23 23:23:46.002 scraper.py   INFO     [MainThread  ] No New Jobs Found!
+Current Findings In Queue: 0
+2020-06--23 23:23:46.003 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:23:56.023 scraper.py   INFO     [MainThread  ] No New Jobs Found!
+Current Findings In Queue: 0
+2020-06--23 23:23:56.023 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:24:03.228 scraper.py   INFO     [MainThread  ] Signal Received By Program: SIGINT
+2020-06--23 23:24:03.228 scraper.py   INFO     [MainThread  ] Shutting Down Craigslist Program...
+2020-06--23 23:24:06.023 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Stopped scraper.py
+    Uptime on 0:00:20.040699
+---------------------------------------------------------------
+
+2020-06--23 23:26:36.245 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Running scraper.py
+    Started on 2020-06-23T23:26:36.245226
+---------------------------------------------------------------
+
+2020-06--23 23:26:36.270 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--23 23:26:36.270 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:26:46.294 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--23 23:26:46.295 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:26:56.318 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--23 23:26:56.318 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:27:06.340 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--23 23:27:06.340 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:27:16.361 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--23 23:27:16.361 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--23 23:27:23.433 scraper.py   INFO     [MainThread  ] Signal Received By Program: SIGINT
+2020-06--23 23:27:23.433 scraper.py   INFO     [MainThread  ] Shutting Down Craigslist Program...
+2020-06--23 23:27:26.362 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Stopped scraper.py
+    Uptime on 0:00:50.116285
+---------------------------------------------------------------
+
+2020-06--24 23:11:03.932 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Running scraper.py
+    Started on 2020-06-24T23:11:03.932115
+---------------------------------------------------------------
+
+2020-06--24 23:11:03.957 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--24 23:11:03.957 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--24 23:11:13.977 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--24 23:11:13.977 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--24 23:11:15.332 scraper.py   INFO     [MainThread  ] Signal Received By Program: SIGINT
+2020-06--24 23:11:15.333 scraper.py   INFO     [MainThread  ] Shutting Down Craigslist Program...
+2020-06--24 23:11:23.978 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Stopped scraper.py
+    Uptime on 0:00:20.046146
+---------------------------------------------------------------
+
+2020-06--25 00:08:27.454 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Running scraper.py
+    Started on 2020-06-25T00:08:27.454868
+---------------------------------------------------------------
+
+2020-06--25 00:08:27.471 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--25 00:08:27.471 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--25 00:08:37.347 scraper.py   INFO     [MainThread  ] Signal Received By Program: SIGINT
+2020-06--25 00:08:37.348 scraper.py   INFO     [MainThread  ] Shutting Down Craigslist Program...
+2020-06--25 00:08:37.473 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Stopped scraper.py
+    Uptime on 0:00:10.018526
+---------------------------------------------------------------
+
+2020-06--25 22:48:45.411 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Running scraper.py
+    Started on 2020-06-25T22:48:45.411679
+---------------------------------------------------------------
+
+2020-06--25 22:48:45.433 scraper.py   ERROR    [MainThread  ] Unhandled exception: name 'stout_nofile' is not defined
+2020-06--25 22:48:55.459 scraper.py   ERROR    [MainThread  ] Unhandled exception: name 'stout_nofile' is not defined
+2020-06--25 22:49:05.477 scraper.py   ERROR    [MainThread  ] Unhandled exception: name 'stout_nofile' is not defined
+2020-06--25 22:49:11.804 scraper.py   INFO     [MainThread  ] Signal Received By Program: SIGINT
+2020-06--25 22:49:11.805 scraper.py   INFO     [MainThread  ] Shutting Down Craigslist Program...
+2020-06--25 22:49:13.834 scraper.py   INFO     [MainThread  ] Signal Received By Program: SIGINT
+2020-06--25 22:49:13.835 scraper.py   INFO     [MainThread  ] Shutting Down Craigslist Program...
+2020-06--25 22:49:15.480 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Stopped scraper.py
+    Uptime on 0:00:30.068662
+---------------------------------------------------------------
+
+2020-06--25 22:51:35.608 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Running scraper.py
+    Started on 2020-06-25T22:51:35.608486
+---------------------------------------------------------------
+
+2020-06--25 22:51:35.627 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--25 22:51:35.627 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--25 22:51:45.646 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--25 22:51:45.646 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--25 22:51:55.668 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--25 22:51:55.668 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--25 22:52:05.695 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--25 22:52:05.695 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--25 22:52:15.713 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--25 22:52:15.713 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--25 22:52:25.732 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--25 22:52:25.732 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--25 22:52:35.754 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--25 22:52:35.754 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--25 22:52:45.774 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--25 22:52:45.774 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--25 22:52:55.797 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--25 22:52:55.798 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--25 22:53:05.819 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--25 22:53:05.819 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--25 22:53:15.842 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--25 22:53:15.842 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--25 22:53:25.861 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--25 22:53:25.861 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--25 22:53:35.887 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--25 22:53:35.887 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--25 22:53:45.913 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--25 22:53:45.913 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--25 22:53:46.224 scraper.py   INFO     [MainThread  ] Signal Received By Program: SIGINT
+2020-06--25 22:53:46.225 scraper.py   INFO     [MainThread  ] Shutting Down Craigslist Program...
+2020-06--25 22:53:55.916 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Stopped scraper.py
+    Uptime on 0:02:20.308015
+---------------------------------------------------------------
+
+2020-06--25 22:54:32.538 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Running scraper.py
+    Started on 2020-06-25T22:54:32.538012
+---------------------------------------------------------------
+
+2020-06--25 22:54:32.554 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--25 22:54:32.554 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--25 22:54:42.573 scraper.py   INFO     [MainThread  ] New Found Jobs!
+Current Findings In Queue: 7
+2020-06--25 22:54:42.573 scraper.py   INFO     [MainThread  ] Rechecking for posts...
+2020-06--25 22:54:51.303 scraper.py   INFO     [MainThread  ] Signal Received By Program: SIGINT
+2020-06--25 22:54:51.303 scraper.py   INFO     [MainThread  ] Shutting Down Craigslist Program...
+2020-06--25 22:54:52.238 scraper.py   INFO     [MainThread  ] Signal Received By Program: SIGINT
+2020-06--25 22:54:52.238 scraper.py   INFO     [MainThread  ] Shutting Down Craigslist Program...
+2020-06--25 22:54:52.578 scraper.py   INFO     [MainThread  ] 
+---------------------------------------------------------------
+    Stopped scraper.py
+    Uptime on 0:00:20.040590
+---------------------------------------------------------------
+

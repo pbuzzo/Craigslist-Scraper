@@ -1,0 +1,11 @@
+<----------- Results From: 2020-06-25 22:54:42.555808 START ----------->
+
+Title: Software Engineer / AWS Cloud / Technical Marketing   URL: https://chicago.craigslist.org/chc/sof/d/chicago-software-engineer-aws-cloud/7146655912.html
+Title: Game Developer and XR Job Openings   URL: https://chicago.craigslist.org/chc/sof/d/chicago-game-developer-and-xr-job/7144292630.html
+Title: Full Stack Web Developer   URL: https://chicago.craigslist.org/sox/sof/d/tinley-park-full-stack-web-developer/7142070782.html
+Title: Information Technology Specialist   URL: https://chicago.craigslist.org/chc/sof/d/naperville-information-technology/7140801088.html
+Title: Want a career in IT or Tech? We can help   URL: https://chicago.craigslist.org/chc/sof/d/chicago-want-career-in-it-or-tech-we/7138618577.html
+Title: IT Tech Support   URL: https://chicago.craigslist.org/sox/sof/d/justice-it-tech-support/7138552848.html
+Title: Service Field Technicians (North Milwaukee Area)   URL: https://milwaukee.craigslist.org/sof/d/milwaukee-service-field-technicians/7137705791.html
+
+<----------- Results From: 2020-06-25 22:54:42.571202 FINISH ----------->
